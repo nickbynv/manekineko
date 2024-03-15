@@ -1,3 +1,5 @@
+Next 13 / TypeScript / Tailwind CSS / Material Tailwind
+
 Установка:
 1. npm i
 2. npm run dev
