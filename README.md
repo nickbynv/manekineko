@@ -1,7 +1,3 @@
-Просто макет, сделанный для демонстрации человеку,
-как бы мог выглядеть его сайт доставки еды (Next 13 / TypeScript / Tailwind CSS / Material Tailwind)
-
-
 Установка:
 1. npm i
 2. npm run dev
